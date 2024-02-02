@@ -14,6 +14,8 @@ Start emulator `./node_modules/.bin/firebase emulators:start`
 
 Push to Firebase `./node_modules/.bin/firebase deploy --only hosting`
 
+More about Firebase hosting is [here](https://youtu.be/P0x0LmiknJc?si=pa3oIfjDV8HW711j)
+
 
 # Getting Started with Create React App
 
