@@ -1,3 +1,20 @@
+### Firebase commands
+
+Install `npm install firebase-tools -D`
+
+Login `./node_modules/.bin/firebase login`
+
+Hosting `./node_modules/.bin/firebase init hosting`
+
+Emulate how it will look like `./node_modules/.bin/firebase init emulators`
+
+Build `npm run build`
+
+Start emulator `./node_modules/.bin/firebase emulators:start`
+
+Push to Firebase `./node_modules/.bin/firebase deploy --only hosting`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
